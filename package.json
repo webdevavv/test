@@ -2,6 +2,7 @@
 	"name": "gulp-prj",
 	"version": "1.0.0",
 	"description": "Сборка Gulp для простой верстки сайтов",
+	"author": "Vikulov-Anatoliy",
 	"devDependencies": {
 		"@babel/core": "^7.22.5",
 		"@babel/preset-env": "^7.22.5",
